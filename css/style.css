@@ -1,12 +1,14 @@
 /* Basic styles for the layout */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f3f0ff;
+    color: #333;
 }
 
 header {
-    background-color: #282c34;
+    background-color: #8e44ad;
     padding: 10px 0;
     color: white;
 }
@@ -26,6 +28,12 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: white;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #dcdde1;
 }
 
 main {
@@ -42,22 +50,34 @@ main {
 .project {
     margin: 10px;
     width: 200px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
     text-decoration: none; /* Remove underline from project links */
     color: inherit; /* Inherit text color */
+}
+
+.project:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .project img {
     width: 100%;
     height: auto;
-    border-radius: 8px;
 }
 
 .project h2 {
-    margin: 10px 0 0;
+    margin: 10px 0;
+    padding: 0 10px;
+    font-size: 1.2em;
+    color: #8e44ad;
 }
 
 footer {
-    background-color: #282c34;
+    background-color: #8e44ad;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -66,10 +86,57 @@ footer {
     bottom: 0;
 }
 
+/* Contact form styles */
+form {
+    display: inline-block;
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: #8e44ad;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #8e44ad;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #732d91;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .highlighted-projects {
         flex-direction: column;
         align-items: center;
+    }
+
+    footer {
+        position: relative;
     }
 }
