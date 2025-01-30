@@ -1,16 +1,20 @@
 /* Basic styles for the layout */
 body {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f3f0ff;
     color: #333;
 }
 
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 header {
     background-color: #8e44ad;
     padding: 10px 0;
     color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 nav ul {
@@ -28,12 +32,13 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: white;
-    font-weight: bold;
-    transition: color 0.3s;
+    font-weight: 600;
+    transition: color 0.3s, transform 0.3s;
 }
 
 nav ul li a:hover {
     color: #dcdde1;
+    transform: scale(1.1);
 }
 
 main {
@@ -48,7 +53,7 @@ main {
 }
 
 .project {
-    margin: 10px;
+    margin: 20px;
     width: 200px;
     background-color: white;
     border-radius: 10px;
@@ -74,6 +79,7 @@ main {
     padding: 0 10px;
     font-size: 1.2em;
     color: #8e44ad;
+    font-weight: 600;
 }
 
 footer {
@@ -84,6 +90,7 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Contact form styles */
@@ -113,6 +120,7 @@ input, textarea {
     border: 1px solid #ddd;
     border-radius: 5px;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 button {
@@ -122,11 +130,13 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, transform 0.3s;
+    font-family: 'Poppins', sans-serif;
 }
 
 button:hover {
     background-color: #732d91;
+    transform: scale(1.05);
 }
 
 /* Responsive design */
