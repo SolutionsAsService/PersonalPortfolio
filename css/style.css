@@ -42,12 +42,18 @@ main {
 .project {
     margin: 10px;
     width: 200px;
+    text-decoration: none; /* Remove underline from project links */
+    color: inherit; /* Inherit text color */
 }
 
 .project img {
     width: 100%;
     height: auto;
     border-radius: 8px;
+}
+
+.project h2 {
+    margin: 10px 0 0;
 }
 
 footer {
