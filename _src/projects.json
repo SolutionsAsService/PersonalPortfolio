@@ -1,0 +1,209 @@
+{
+  "groups": [
+    {
+      "id": "business",
+      "label": "Business sites"
+    },
+    {
+      "id": "maps",
+      "label": "Maps & atlases"
+    },
+    {
+      "id": "tools",
+      "label": "Tools & apps"
+    },
+    {
+      "id": "guides",
+      "label": "Guides"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "copperline",
+      "title": "Copperline Plumbing Co.",
+      "url": "https://tulsa-plumbing-site.vercel.app",
+      "group": "business",
+      "featured": true,
+      "line": "Phone-first site for a Tulsa plumber, in copper and Art Deco.",
+      "tags": [
+        "7 pages",
+        "Emergency flow"
+      ]
+    },
+    {
+      "slug": "ugc",
+      "title": "UGC Events & Media",
+      "url": "https://ugc-site.vercel.app",
+      "group": "business",
+      "featured": true,
+      "line": "Two Utah event estates, with the photo cut into the mountain.",
+      "tags": [
+        "7 pages",
+        "Contact API"
+      ]
+    },
+    {
+      "slug": "wtf",
+      "title": "WTF: Where The Founders gather",
+      "url": "https://wtf-revamp.vercel.app",
+      "group": "business",
+      "featured": true,
+      "line": "A private circle and venue for San Diego founders.",
+      "tags": [
+        "6 pages",
+        "Invitation form"
+      ]
+    },
+    {
+      "slug": "taos-rafting",
+      "title": "Taos River Adventures",
+      "url": "https://taos-rafting-corp.shadw.app",
+      "group": "business",
+      "featured": true,
+      "line": "Rio Grande rafting trips in Taos, New Mexico.",
+      "tags": [
+        "Concept site",
+        "Trips"
+      ]
+    },
+    {
+      "slug": "physics-map",
+      "title": "Physics Map",
+      "url": "https://physics-map.shadw.app",
+      "group": "maps",
+      "line": "A living field guide to how physics fits together.",
+      "tags": [
+        "Graph",
+        "Learning routes"
+      ]
+    },
+    {
+      "slug": "developer-map",
+      "title": "Developer Map",
+      "url": "https://developer-map.shadw.app",
+      "group": "maps",
+      "line": "Concepts and connections behind how computers work.",
+      "tags": [
+        "Graph",
+        "Search"
+      ]
+    },
+    {
+      "slug": "internet-structure",
+      "title": "Internet Structure Atlas",
+      "url": "https://internet-structure.vercel.app",
+      "group": "maps",
+      "line": "The organisations that keep the internet running.",
+      "tags": [
+        "Network map"
+      ]
+    },
+    {
+      "slug": "globalism-calc",
+      "title": "Globalism Calc",
+      "url": "https://globalism-calc.shadw.app",
+      "group": "maps",
+      "line": "How dependent each country is on the rest of the world.",
+      "tags": [
+        "Choropleth",
+        "Data"
+      ]
+    },
+    {
+      "slug": "green-globe",
+      "title": "Green 3D Globe",
+      "url": "https://green-3djs-globe.shadw.app",
+      "group": "maps",
+      "line": "A dotted Three.js globe with location pointers.",
+      "tags": [
+        "Three.js",
+        "3D"
+      ],
+      "wide": true
+    },
+    {
+      "slug": "pgmi",
+      "title": "Atlas: Environmental Terrain",
+      "url": "https://pgmi.shadw.app",
+      "group": "maps",
+      "line": "Procedural terrain: mountains, valleys, deserts, coasts.",
+      "tags": [
+        "3D",
+        "Procedural"
+      ]
+    },
+    {
+      "slug": "dice-roller",
+      "title": "Dungeon Dice Box",
+      "url": "https://dice-roller.shadw.app",
+      "group": "tools",
+      "line": "Roll tabletop dice on a felt table, with formulas and saved rolls.",
+      "tags": [
+        "Game tool"
+      ],
+      "wide": true
+    },
+    {
+      "slug": "open-dungeon",
+      "title": "Open Tabletop",
+      "url": "https://open-dungeon.vercel.app",
+      "group": "tools",
+      "line": "A shared table for any roleplaying game: maps, minis, rules.",
+      "tags": [
+        "Multiplayer",
+        "Maps"
+      ]
+    },
+    {
+      "slug": "vfx-machine",
+      "title": "VFX Machine",
+      "url": "https://vfx-machine.vercel.app",
+      "group": "tools",
+      "line": "A modular workbench for film effects in the browser.",
+      "tags": [
+        "Video",
+        "Editor"
+      ]
+    },
+    {
+      "slug": "jarvis",
+      "title": "JARVIS",
+      "url": "https://jarvis.shadw.app",
+      "group": "tools",
+      "line": "A map of an assistant operating system: what runs, what connects.",
+      "tags": [
+        "Architecture"
+      ]
+    },
+    {
+      "slug": "microcontrollers",
+      "title": "The Microcontroller Encyclopedia",
+      "url": "https://microcontrollers.shadw.app",
+      "group": "guides",
+      "line": "ESP32, Arduino and the hardware around them, explained.",
+      "tags": [
+        "Reference"
+      ]
+    },
+    {
+      "slug": "off-grid-electric",
+      "title": "Electricity, from the ground up",
+      "url": "https://off-grid-electric.vercel.app",
+      "group": "guides",
+      "line": "Solar, batteries, inverters and meters for off-grid systems.",
+      "tags": [
+        "Guide"
+      ]
+    },
+    {
+      "slug": "blockchain-explain",
+      "title": "Understanding Autheo",
+      "url": "https://blockchain-explain.vercel.app",
+      "group": "guides",
+      "line": "Blockchain infrastructure explained: Cosmos SDK, EVM, IBC.",
+      "tags": [
+        "Guide"
+      ]
+    }
+  ]
+}
