@@ -215,6 +215,17 @@
         "80-column grid",
         "Corpus index"
       ]
+    },
+    {
+      "slug": "highwater",
+      "title": "Highwater Rafting Co.",
+      "url": "https://basic-rafting-site.vercel.app",
+      "group": "business",
+      "line": "Six Arkansas River trips, each tied to the gauge that says if it's running.",
+      "tags": [
+        "7 pages",
+        "Flow gauge"
+      ]
     }
   ]
 }
