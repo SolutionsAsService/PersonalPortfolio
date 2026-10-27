@@ -204,6 +204,17 @@
       "tags": [
         "Guide"
       ]
+    },
+    {
+      "slug": "learncobol",
+      "title": "Learn COBOL",
+      "url": "https://solutionsasservice.github.io/LearnCOBOL/",
+      "group": "guides",
+      "line": "Thirty-two COBOL programs, read on the 80-column card they were written to.",
+      "tags": [
+        "80-column grid",
+        "Corpus index"
+      ]
     }
   ]
 }

@@ -145,11 +145,11 @@ Both rounds: all seven PASS, no Andon, every seat "nothing new". Carry-overs onl
 ## 2g. Figures the page prints, re-measured at the final state
 | Printed | Procedure | Value | Result |
 |---|---|---|---|
-| "17 live projects" (eyebrow, All chip, meta) | `len(projects)` in `_src/projects.json`; cards in `index.html` | 17 / 17 | reproducible |
-| Chip counts 4 / 6 / 4 / 3 | count by `group` | business 4, maps 6, tools 4, guides 3 | reproducible |
-| Plates No. 01–17 | `No. (\d\d)` in `index.html` | 01…17 | reproducible |
-| Strip slices | count `.slice` | 17 | reproducible |
-| "Every tile below opens the real, live site" | `curl -L` on all 17 tile URLs | 17 × HTTP 200 (2026-10-27) | reproducible |
+| "18 live projects" (eyebrow, All chip, meta) | `len(projects)` in `_src/projects.json`; cards in `index.html` | 18 / 18 | reproducible |
+| Chip counts 4 / 6 / 4 / 4 | count by `group` | business 4, maps 6, tools 4, guides 4 | reproducible |
+| Plates No. 01–18 | `No. (\d\d)` in `index.html` | 01…18 | reproducible |
+| Strip slices | count `.slice` | 18 | reproducible |
+| "Every tile below opens the real, live site" | HTTP GET on all 18 tile URLs | 18 × HTTP 200 (2026-10-27) | reproducible |
 | Contrast | `textcontrast.py` at 1280 and 390 | 0 failing | reproducible |
 
 ## 4. Anchor Ledger
