@@ -226,6 +226,17 @@
         "7 pages",
         "Flow gauge"
       ]
+    },
+    {
+      "slug": "alpenglow",
+      "title": "Alpenglow Retreat",
+      "url": "https://dunes-event.vercel.app",
+      "group": "business",
+      "line": "A yearly retreat at Great Sand Dunes, with the moon each edition actually had.",
+      "tags": [
+        "7 pages",
+        "Computed moon"
+      ]
     }
   ]
 }
