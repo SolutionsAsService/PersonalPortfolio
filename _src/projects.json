@@ -31,6 +31,28 @@
       ]
     },
     {
+      "slug": "stargazer",
+      "title": "Stargazer Spas",
+      "url": "https://hot-tub-site.vercel.app",
+      "group": "business",
+      "line": "Hot tub dealer for Southern California, told as one evening from dusk to stars.",
+      "tags": [
+        "5 pages",
+        "Quote form"
+      ]
+    },
+    {
+      "slug": "waves-window",
+      "title": "Waves Window",
+      "url": "https://window-cleaning-site.vercel.app",
+      "group": "business",
+      "line": "San Diego window cleaning: one clean pass through salt haze.",
+      "tags": [
+        "5 pages",
+        "Quote form"
+      ]
+    },
+    {
       "slug": "ugc",
       "title": "UGC Events & Media",
       "url": "https://ugc-site.vercel.app",

@@ -8,7 +8,7 @@ import json
 import pathlib
 
 SRC = pathlib.Path(__file__).resolve().parent
-ROOT = SRC.parent
+ROOT = SRC.parent / "site"
 
 data = json.loads((SRC / "projects.json").read_text(encoding="utf-8"))
 groups = {g["id"]: g["label"] for g in data["groups"]}

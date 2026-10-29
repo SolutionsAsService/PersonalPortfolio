@@ -184,3 +184,7 @@ The panel's main failure in this run came from the instrument, not the doctrine.
 - [x] Panels per WHOLE round, 7 seats, one sub-agent per authority. **Deviation:** one panel per batch, not per move; Bringhurst's R1 seat failed on a usage limit and was re-run in R2
 - [x] Every OBJECT resolved; OVERRULEs by measurement recorded (phone collision, tag contrast, strip links)
 - [x] S1–S5 shown; 2g at final state; Anchor Ledger; double loop; final reply states mode, tools and skips
+
+## 2026-10-29 update
+- Added Stargazer Spas and Waves Window tiles (business group, after Copperline).
+- Moved the site into `site/` with root and site `vercel.json` files and a root redirect `index.html`, per the deploy rule. Audit at 1280/390/320: 0 issues.
