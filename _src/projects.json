@@ -259,6 +259,17 @@
         "7 pages",
         "Computed moon"
       ]
+    },
+    {
+      "slug": "loadbearing",
+      "title": "Loadbearing",
+      "url": "https://consulting-front-end.vercel.app",
+      "group": "business",
+      "line": "A web consulting studio whose home page load-tests itself in your browser.",
+      "tags": [
+        "5 pages",
+        "Live load test"
+      ]
     }
   ]
 }
