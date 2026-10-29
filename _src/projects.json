@@ -270,6 +270,17 @@
         "5 pages",
         "Live load test"
       ]
+    },
+    {
+      "slug": "outrider",
+      "title": "Outrider",
+      "url": "https://weather-for-extreme-sports.vercel.app",
+      "group": "tools",
+      "line": "Live forecast for six outdoor sports, every hour of the next 48 graded go or no-go.",
+      "tags": [
+        "Live data",
+        "Window finder"
+      ]
     }
   ]
 }
