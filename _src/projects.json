@@ -380,6 +380,17 @@
         "8 pages",
         "Hash chain"
       ]
+    },
+    {
+      "slug": "learnrust",
+      "title": "LearnRust",
+      "url": "https://learnrust.shadw.app",
+      "group": "guides",
+      "line": "Thirteen tested Rust programs, from ownership to a toy blockchain, with the borrow checker on the front page.",
+      "tags": [
+        "13 lessons",
+        "35 tests"
+      ]
     }
   ]
 }
