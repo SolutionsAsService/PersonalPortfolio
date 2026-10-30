@@ -281,6 +281,17 @@
         "Live data",
         "Window finder"
       ]
+    },
+    {
+      "slug": "az-detailing",
+      "title": "A-Z's Mobile Detailing",
+      "url": "https://az-mobile-detailing.vercel.app",
+      "group": "business",
+      "line": "A one-man mobile detailer in North County San Diego: real paint up front, packages placed A to Z by price.",
+      "tags": [
+        "Live booking",
+        "Deposit flow"
+      ]
     }
   ]
 }
