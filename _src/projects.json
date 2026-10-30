@@ -274,7 +274,7 @@
     {
       "slug": "outrider",
       "title": "Outrider",
-      "url": "https://weather-for-extreme-sports.vercel.app",
+      "url": "https://weather-for-extreme-sports.shadw.app",
       "group": "tools",
       "line": "Live forecast for six outdoor sports, every hour of the next 48 graded go or no-go.",
       "tags": [
@@ -324,6 +324,50 @@
       "tags": [
         "9 pages",
         "Skills checks"
+      ]
+    },
+    {
+      "slug": "realestate",
+      "title": "California Real Estate Investment",
+      "url": "https://real-estate-demo-mu.vercel.app",
+      "group": "business",
+      "line": "Concept site for a private real estate firm: four offerings pinned on a California map, six steps to invest, plain-spoken fees.",
+      "tags": [
+        "8 pages",
+        "Drawn map"
+      ]
+    },
+    {
+      "slug": "mesa-rescue",
+      "title": "Mesa Animal Rescue",
+      "url": "https://animal-sanctuary-five.vercel.app",
+      "group": "business",
+      "line": "Concept site for an animal rescue in Mesa, Arizona: six animals with drawn portraits, fostering, volunteering, giving.",
+      "tags": [
+        "8 pages",
+        "Adopt filter"
+      ]
+    },
+    {
+      "slug": "foodbox",
+      "title": "Foodbox",
+      "url": "https://foodbox.shadw.app/",
+      "group": "tools",
+      "line": "Concept study for small fresh-food pickup nodes, with three CAD revisions to orbit in the browser.",
+      "tags": [
+        "3D model",
+        "Concept"
+      ]
+    },
+    {
+      "slug": "learngroovy",
+      "title": "Learn Groovy",
+      "url": "https://learngroovy.shadw.app/",
+      "group": "guides",
+      "line": "The Groovy language in twelve small programs, presented as a 70s LP whose groove is the code.",
+      "tags": [
+        "16 pages",
+        "12 examples"
       ]
     }
   ]
