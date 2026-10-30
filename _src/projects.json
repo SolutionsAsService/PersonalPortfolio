@@ -369,6 +369,17 @@
         "16 pages",
         "12 examples"
       ]
+    },
+    {
+      "slug": "five-blocks",
+      "title": "Five Blocks",
+      "url": "https://web3.shadw.app",
+      "group": "guides",
+      "line": "Web3 from first principles: five pages that form a real hash chain you can verify, each with a lab.",
+      "tags": [
+        "8 pages",
+        "Hash chain"
+      ]
     }
   ]
 }
