@@ -292,6 +292,17 @@
         "Live booking",
         "Deposit flow"
       ]
+    },
+    {
+      "slug": "lintel",
+      "title": "Lintel",
+      "url": "https://lintel-financing.vercel.app",
+      "group": "tools",
+      "line": "Contractor financing marketplace demo: one application, six lenders, offers side by side.",
+      "tags": [
+        "8 pages",
+        "Match engine"
+      ]
     }
   ]
 }
