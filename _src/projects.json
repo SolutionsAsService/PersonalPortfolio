@@ -294,6 +294,17 @@
       ]
     },
     {
+      "slug": "mesa-mechanic",
+      "title": "Taos Mesa Mobile Mechanic",
+      "url": "https://mesa-mobile-mechanic.shadw.app",
+      "group": "business",
+      "line": "Seth's mobile repair on the Taos mesa: the subdivision's paper grid split by the gorge, booking by landmarks instead of an address, and a page for every place he drives to.",
+      "tags": [
+        "Landmark booking",
+        "Answer-engine FAQ"
+      ]
+    },
+    {
       "slug": "lintel",
       "title": "Lintel",
       "url": "https://lintel-financing.vercel.app",
