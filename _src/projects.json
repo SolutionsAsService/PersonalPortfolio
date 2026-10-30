@@ -314,6 +314,17 @@
         "8 pages",
         "Transit map"
       ]
+    },
+    {
+      "slug": "compass-trail",
+      "title": "Compass & Trail",
+      "url": "https://compass-and-trail.vercel.app",
+      "group": "guides",
+      "line": "An open web handbook for scouts: compass, maps, knots, camping and first aid, each with a skills check.",
+      "tags": [
+        "9 pages",
+        "Skills checks"
+      ]
     }
   ]
 }
