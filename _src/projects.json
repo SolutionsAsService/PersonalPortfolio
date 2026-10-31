@@ -478,6 +478,28 @@
       ]
     },
     {
+      "slug": "shadw-game-suite",
+      "title": "SHADW Game Suite",
+      "url": "https://shadw-gamesuite-site.shadw.app",
+      "group": "tools",
+      "line": "One project file over SHADW Terrain, Forge, KeyForge and shadw.cloud: generated worlds and sandboxed bot tests for game studios.",
+      "tags": [
+        "Game dev",
+        "Godot"
+      ]
+    },
+    {
+      "slug": "brine-shipwright",
+      "title": "Brine & Brie: Shipwright",
+      "url": "https://shadw-gamesuite-site.shadw.app/shipwright",
+      "group": "tools",
+      "line": "A pixel-art mouse builds a ship, then walks its deck to work the helm, sails and anchor. C# on Godot, built on the SHADW Game Suite.",
+      "tags": [
+        "Game",
+        "C#"
+      ]
+    },
+    {
       "slug": "show-your-work",
       "title": "Show Your Work",
       "url": "https://scientific-calc-site.vercel.app",
