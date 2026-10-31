@@ -558,6 +558,29 @@
       "tags": [
         "6 demo sites"
       ]
+    },
+    {
+      "slug": "geopolitics",
+      "title": "GeoPolitics: the Weave",
+      "url": "https://geopolitics.shadw.app",
+      "group": "maps",
+      "line": "151 organisations, shared languages and games series drawn as threads through their members' capitals: politics, economics, defence, culture, games and history woven over one map.",
+      "tags": [
+        "Woven map",
+        "260 country pages"
+      ],
+      "wide": true
+    },
+    {
+      "slug": "shadw-mcp",
+      "title": "shadw-MCP",
+      "url": "https://shadw-mcp.shadw.app",
+      "group": "tools",
+      "line": "An MCP server that gives an agent a Shadw key: 15 tools to deploy, check health and roll back.",
+      "tags": [
+        "MCP server",
+        "15 tools"
+      ]
     }
   ]
 }
