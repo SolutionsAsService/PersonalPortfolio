@@ -413,6 +413,129 @@
         "13 lessons",
         "35 tests"
       ]
+    },
+    {
+      "slug": "esoteric-languages",
+      "title": "Esoteric Languages",
+      "url": "https://esoteric-languages.shadw.app",
+      "group": "guides",
+      "line": "Brainfuck, Ook!, Befunge, Whitespace, Piet, Malbolge and LOLCODE, each saying Hello, World! on a Mondrian poster, every program run by the site's own interpreters.",
+      "tags": [
+        "8 languages",
+        "7 programs run"
+      ]
+    },
+    {
+      "slug": "smartcobol",
+      "title": "SmartCOBOL",
+      "url": "https://smartcobol.shadw.app",
+      "group": "tools",
+      "line": "A COBOL-derived language for smart contracts that compiles to Solidity 0.8, explained on the COBOL coding form with a punched card for a hero.",
+      "tags": [
+        "Compiler",
+        "Testnet only"
+      ]
+    },
+    {
+      "slug": "foodchart",
+      "title": "FoodChart",
+      "url": "https://foodchart.shadw.app",
+      "group": "maps",
+      "line": "Twelve world cuisines charted like the back of a box: dishes, ingredients, flavors, techniques and influences, side by side.",
+      "tags": [
+        "12 cuisines"
+      ]
+    },
+    {
+      "slug": "palimpsest",
+      "title": "Palimpsest",
+      "url": "https://historical-basemap-viewer.shadw.app",
+      "group": "maps",
+      "line": "A historical atlas: the world's borders as a stack of snapshots through time, each one written over the last.",
+      "tags": [
+        "Historical borders"
+      ]
+    },
+    {
+      "slug": "countrydata",
+      "title": "CountryData",
+      "url": "https://countrydata.shadw.app",
+      "group": "maps",
+      "line": "An open atlas of 198 countries and 63 historical states as one JSON file each, showing what every record covers and what it doesn't.",
+      "tags": [
+        "Open data",
+        "261 records"
+      ]
+    },
+    {
+      "slug": "shadw-terrain",
+      "title": "SHADW Terrain",
+      "url": "https://shadw-terrain.shadw.app",
+      "group": "maps",
+      "line": "A seeded, deterministic map generator: one line of input becomes a tactical map, with a cyber-network mode on the way.",
+      "tags": [
+        "Procedural maps"
+      ]
+    },
+    {
+      "slug": "show-your-work",
+      "title": "Show Your Work",
+      "url": "https://scientific-calc-site.vercel.app",
+      "group": "tools",
+      "line": "A scientific calculator in the browser that shows how it read your maths: trig, logs, roots, constants and a paper tape.",
+      "tags": [
+        "Calculator"
+      ]
+    },
+    {
+      "slug": "facet",
+      "title": "Kuddo Facet",
+      "url": "https://facet.shadw.app",
+      "group": "tools",
+      "line": "A journal that grows your personality modes from your own entries instead of preset types, with a critic panel on every piece of feedback.",
+      "tags": [
+        "Self-insight journal"
+      ]
+    },
+    {
+      "slug": "billionaire-pay",
+      "title": "Billionaire Pay",
+      "url": "https://billionaire-pay.shadw.app",
+      "group": "tools",
+      "line": "Satire: private banking for the terminally bored. Swipe through strangers' bills and swipe right to pay one; no real money moves.",
+      "tags": [
+        "Satire"
+      ]
+    },
+    {
+      "slug": "divine-transport",
+      "title": "Divine Transport Group",
+      "url": "https://divine-transport-group.shadw.app",
+      "group": "business",
+      "line": "Private rides, auto detailing and junk removal across Southern California, booked by reservation.",
+      "tags": [
+        "Transport & detailing"
+      ]
+    },
+    {
+      "slug": "around-the-loop",
+      "title": "Around The Loop Productions",
+      "url": "https://around-the-loop-productions.shadw.app",
+      "group": "business",
+      "line": "Photography, videography and podcast production from San Diego County, with the name drawn as the loop around the hero.",
+      "tags": [
+        "Media production"
+      ]
+    },
+    {
+      "slug": "ubm-wall",
+      "title": "Ultimate Business Machines demos",
+      "url": "https://ubm-demo-sites-wall.shadw.app",
+      "group": "business",
+      "line": "Six made-up businesses, each a full website running on its own Ultimate Business Machines demo company: book or enquire, then log in and watch it arrive.",
+      "tags": [
+        "6 demo sites"
+      ]
     }
   ]
 }
