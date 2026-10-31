@@ -327,6 +327,17 @@
       ]
     },
     {
+      "slug": "macroeconomics",
+      "title": "MacroEconomics",
+      "url": "https://macroeconomics.shadw.app",
+      "group": "maps",
+      "line": "Small economics datasets repaired and charted with their seams showing: oil counted three ways, inflation as purchasing power, port rankings, the CFA franc and a quadratic funding calculator.",
+      "tags": [
+        "Data repair",
+        "Quadratic funding calculator"
+      ]
+    },
+    {
       "slug": "compass-trail",
       "title": "Compass & Trail",
       "url": "https://guides.shadw.app",
