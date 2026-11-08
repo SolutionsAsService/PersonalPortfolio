@@ -581,6 +581,17 @@
         "MCP server",
         "15 tools"
       ]
+    },
+    {
+      "slug": "learnsql",
+      "title": "LearnSQL",
+      "url": "https://learnsql.shadw.app",
+      "group": "guides",
+      "line": "Eleven SQL queries, every one run, with the real result rows.",
+      "tags": [
+        "Guide",
+        "11 queries run"
+      ]
     }
   ]
 }

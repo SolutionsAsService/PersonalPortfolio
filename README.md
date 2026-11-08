@@ -14,6 +14,10 @@ python _src/build.py
 
 The page text lives in `_src/template.html`. Styles are in `site/css/style.css`, and the filter script is in `site/js/site.js`. The build writes `site/index.html`.
 
+## Rule: an A goes straight to the portfolio
+
+Any run the owner grades A (DADA, DADA-Lite or otherwise) is added here as part of finishing it, without waiting to be asked: screenshot, entry, rebuild, push. Grades below A are not added. The rule is also written into the DADA-Lite skill (Step 7) and the DADA project notes. First case: LearnSQL (A, 8 Nov 2026). Its entry points at the intended address `learnsql.shadw.app`, and its screenshot was taken from the local build, because the site is not deployed yet: deploy it, then retake the screenshot from the live site.
+
 ## Deploy
 
 Vercel, with no build step. The root `vercel.json` serves `site/`, and `site/vercel.json` covers a Root Directory set to `site`. The root `index.html` redirects to `site/` for plain static hosts. All links are relative.
