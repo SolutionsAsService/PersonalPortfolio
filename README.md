@@ -5,7 +5,7 @@ A one-page index of live projects: each card opens the real site. Static site, d
 ## Add or change a project
 
 1. Screenshot the live site at 1440×900 and save two copies in `site/images/work/`: `<slug>-1200.jpg` (1200×750) and `<slug>-600.jpg` (600×375).
-2. Add an entry to `_src/projects.json`: `slug`, `title`, `url`, `group` (`business`, `maps`, `tools` or `guides`), a one-line `line`, optional `tags`, and `"featured": true` to put it in the large top row.
+2. Add an entry to `_src/projects.json` (the `url` is `https://<repo name in lower case>.shadw.app`, where the project is deployed; use a GitHub URL only for something that is not a deployed site): `slug`, `title`, `url`, `group` (`business`, `maps`, `tools` or `guides`), a one-line `line`, optional `tags`, and `"featured": true` to put it in the large top row.
 3. Rebuild:
 
 ```bash
