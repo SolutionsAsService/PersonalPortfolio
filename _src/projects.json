@@ -603,6 +603,17 @@
         "Marked numbers",
         "Equation balancer"
       ]
+    },
+    {
+      "slug": "ages-of-rule",
+      "title": "Ages of Rule",
+      "url": "https://github.com/SolutionsAsService/PoliticalMapApp",
+      "group": "maps",
+      "line": "A timeline of 56 governance systems over 5,226 years, drawn as how many were alive in each year, with 166 countries from CountryData one click away.",
+      "tags": [
+        "Multi-page",
+        "Draggable year"
+      ]
     }
   ]
 }
