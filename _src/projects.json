@@ -716,6 +716,18 @@
         "Pinned-source comparison",
         "Gate stamps every claim"
       ]
+    },
+    {
+      "slug": "enginedisplay",
+      "title": "EngineDisplay",
+      "url": "https://enginedisplay.shadw.app",
+      "group": "guides",
+      "line": "A car four, a truck diesel six and a nine-cylinder aircraft radial, built as FreeCAD solids and shown at one scale on one crank angle, their pistons driven by real crank geometry. Explode, X-ray and watch the firing order.",
+      "tags": [
+        "FreeCAD models",
+        "Live crank geometry",
+        "3 engines, 1 scale"
+      ]
     }
   ]
 }
