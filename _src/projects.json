@@ -636,6 +636,17 @@
         "Real output",
         "Command explainer"
       ]
+    },
+    {
+      "slug": "global-indexes",
+      "title": "Global Indexes",
+      "url": "https://global-indexes.shadw.app",
+      "group": "maps",
+      "line": "Eight published indexes of governance, wellbeing and safety across 193 countries, drawn as one line per country, with the year, score and ties printed beside every position.",
+      "tags": [
+        "8 indexes",
+        "Parallel chart"
+      ]
     }
   ]
 }
