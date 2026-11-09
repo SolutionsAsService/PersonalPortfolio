@@ -705,6 +705,17 @@
         "Page colour = river level",
         "Gate recomputes every figure"
       ]
+    },
+    {
+      "slug": "utcp",
+      "title": "uTCP and MCP",
+      "url": "https://utcp.shadw.app",
+      "group": "guides",
+      "line": "A fair comparison of the Universal Tool Calling Protocol and the Model Context Protocol where every sentence is stamped to a pinned quote, plus a calculator that refuses to crown a winner and a look at how the DADA run manual and its forks take from both.",
+      "tags": [
+        "Pinned-source comparison",
+        "Gate stamps every claim"
+      ]
     }
   ]
 }
