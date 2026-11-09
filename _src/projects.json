@@ -585,7 +585,7 @@
     {
       "slug": "thomas-sowell",
       "title": "Thomas Sowell: an appreciation",
-      "url": "https://github.com/SolutionsAsService/ThomasSowell",
+      "url": "https://thomassowell.shadw.app",
       "group": "guides",
       "line": "A reader's guide to an economist's books and sayings, where every quotation is marked for how well its source is known and a shelf of 28 books is drawn from the same data as the text.",
       "tags": [
@@ -596,7 +596,7 @@
     {
       "slug": "science-encyclopedia",
       "title": "Science Encyclopedia",
-      "url": "https://github.com/SolutionsAsService/ScienceEncyclopedia",
+      "url": "https://scienceencyclopedia.shadw.app",
       "group": "guides",
       "line": "A small science reference where each listed figure is marked exact, measured or rounded, with a 118-element periodic table and an equation balancer that solves each reaction exactly.",
       "tags": [
@@ -629,7 +629,7 @@
     {
       "slug": "learn-bash",
       "title": "Learn Bash",
-      "url": "https://github.com/SolutionsAsService/LearnBash",
+      "url": "https://learnbash.shadw.app",
       "group": "guides",
       "line": "A Bash guide where every output was printed by a real run, each command is marked by what it can do to your files, and a pipeline is drawn as a pipe as thick as its measured line count.",
       "tags": [
