@@ -625,6 +625,17 @@
         "Live Merkle tree",
         "4 examples run and checked"
       ]
+    },
+    {
+      "slug": "learn-bash",
+      "title": "Learn Bash",
+      "url": "https://github.com/SolutionsAsService/LearnBash",
+      "group": "guides",
+      "line": "A Bash guide where every output was printed by a real run, each command is marked by what it can do to your files, and a pipeline is drawn as a pipe as thick as its measured line count.",
+      "tags": [
+        "Real output",
+        "Command explainer"
+      ]
     }
   ]
 }
