@@ -212,10 +212,10 @@
       "title": "Off-grid Electric",
       "url": "https://off-grid-electric.shadw.app",
       "group": "guides",
-      "line": "An off-grid solar guide led by a working simulator: flip appliances and watch one battery fill and drain through a modelled day, with four checks, a virtual multimeter that blows its fuse if you use it wrong, and every number computed from printed assumptions.",
+      "line": "An off-grid solar guide led by a working simulator: flip appliances and watch one battery fill and drain through a modelled day, with four checks, a virtual multimeter lab where you drag the probes, blow the fuse if you use it wrong and diagnose five hidden faults, and every number computed from printed assumptions.",
       "tags": [
         "Battery simulator",
-        "Virtual multimeter",
+        "Multimeter lab: diagnose hidden faults",
         "Gate recomputes every example"
       ]
     },
