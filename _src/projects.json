@@ -592,6 +592,17 @@
         "Quotes marked by source",
         "28 books"
       ]
+    },
+    {
+      "slug": "science-encyclopedia",
+      "title": "Science Encyclopedia",
+      "url": "https://github.com/SolutionsAsService/ScienceEncyclopedia",
+      "group": "guides",
+      "line": "A small science reference where each listed figure is marked exact, measured or rounded, with a 118-element periodic table and an equation balancer that solves each reaction exactly.",
+      "tags": [
+        "Marked numbers",
+        "Equation balancer"
+      ]
     }
   ]
 }
