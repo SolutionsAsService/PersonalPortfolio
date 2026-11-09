@@ -680,6 +680,17 @@
         "Build as layers",
         "34 commands run and checked"
       ]
+    },
+    {
+      "slug": "security-site",
+      "title": "SecureTech Solutions",
+      "url": "https://security-site.shadw.app",
+      "group": "business",
+      "line": "A security consultancy whose landing is a year wheel: type a password and see how long one core needs to find it for three ways a site might store it, with the page colour moving from hot pink to lime with the answer.",
+      "tags": [
+        "Year wheel",
+        "Dynamic --heat theme"
+      ]
     }
   ]
 }
