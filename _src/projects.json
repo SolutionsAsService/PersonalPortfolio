@@ -614,6 +614,17 @@
         "Multi-page",
         "Draggable year"
       ]
+    },
+    {
+      "slug": "learn-hypercore",
+      "title": "Learn Hypercore",
+      "url": "https://learnhypercore.shadw.app",
+      "group": "guides",
+      "line": "An unofficial guide to the Hypercore append-only log, led by a live Merkle tree you can append to and forge, with every code example run against the real library.",
+      "tags": [
+        "Live Merkle tree",
+        "4 examples run and checked"
+      ]
     }
   ]
 }
