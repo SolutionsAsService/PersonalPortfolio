@@ -693,6 +693,18 @@
         "Year wheel",
         "Dynamic --heat theme"
       ]
+    },
+    {
+      "slug": "boilerplate-site",
+      "title": "Gauge Rafting",
+      "url": "https://boilerplate-site.shadw.app",
+      "group": "business",
+      "line": "A Next.js whitewater rafting site where one number, the river level, runs everything: the class of every rapid, who may ride, the price, and the colour of the page. Includes a raft you can run down the river and a gate that recomputes every figure.",
+      "tags": [
+        "Next.js 15",
+        "Page colour = river level",
+        "Gate recomputes every figure"
+      ]
     }
   ]
 }
