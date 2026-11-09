@@ -209,12 +209,13 @@
     },
     {
       "slug": "off-grid-electric",
-      "title": "Electricity, from the ground up",
-      "url": "https://off-grid-electric.vercel.app",
+      "title": "Off-grid Electric",
+      "url": "https://off-grid-electric.shadw.app",
       "group": "guides",
-      "line": "Solar, batteries, inverters and meters for off-grid systems.",
+      "line": "An off-grid solar guide led by a working simulator: flip appliances and watch one battery fill and drain through a modelled day, with four checks and every number computed from printed assumptions.",
       "tags": [
-        "Guide"
+        "Battery simulator",
+        "Gate recomputes every example"
       ]
     },
     {
