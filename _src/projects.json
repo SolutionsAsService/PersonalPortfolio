@@ -669,6 +669,17 @@
         "Data-driven menu",
         "Terpene wheel"
       ]
+    },
+    {
+      "slug": "learndocker",
+      "title": "Learn Docker",
+      "url": "https://learndocker.shadw.app",
+      "group": "guides",
+      "line": "An unofficial guide to Docker, led by the build drawn as layers from real builds: which steps the cache reused and which ran again, with all 34 commands run against a real daemon.",
+      "tags": [
+        "Build as layers",
+        "34 commands run and checked"
+      ]
     }
   ]
 }
