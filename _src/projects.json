@@ -647,6 +647,17 @@
         "8 indexes",
         "Parallel chart"
       ]
+    },
+    {
+      "slug": "holyc",
+      "title": "HolyC and TempleOS",
+      "url": "https://holyc.shadw.app",
+      "group": "guides",
+      "line": "A guide to HolyC and TempleOS in a sixteen-colour screen, with every example run in your browser.",
+      "tags": [
+        "16-colour palette",
+        "Run HolyC in your browser"
+      ]
     }
   ]
 }
