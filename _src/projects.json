@@ -658,6 +658,17 @@
         "16-colour palette",
         "Run HolyC in your browser"
       ]
+    },
+    {
+      "slug": "cannabisco",
+      "title": "CannabisCo",
+      "url": "https://cannabisco.shadw.app",
+      "group": "business",
+      "line": "A cannabis menu where every product is shown as its label, with a terpene wheel on one shared scale. Sample content, ready for a real business to fill in.",
+      "tags": [
+        "Data-driven menu",
+        "Terpene wheel"
+      ]
     }
   ]
 }
