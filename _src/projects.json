@@ -581,6 +581,17 @@
         "MCP server",
         "15 tools"
       ]
+    },
+    {
+      "slug": "thomas-sowell",
+      "title": "Thomas Sowell: an appreciation",
+      "url": "https://github.com/SolutionsAsService/ThomasSowell",
+      "group": "guides",
+      "line": "A reader's guide to an economist's books and sayings, where every quotation is marked for how well its source is known and a shelf of 28 books is drawn from the same data as the text.",
+      "tags": [
+        "Quotes marked by source",
+        "28 books"
+      ]
     }
   ]
 }
