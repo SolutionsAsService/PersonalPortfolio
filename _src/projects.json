@@ -591,6 +591,18 @@
       ]
     },
     {
+      "slug": "learnsolidity",
+      "title": "Learn Solidity",
+      "url": "https://learnsolidity.shadw.app",
+      "group": "guides",
+      "line": "Solidity lessons where every contract was compiled and run in a real EVM: the gas, events and reverts of each transaction, working attacks beside their fixes, a money bug from the original examples, and a playground that runs the contracts in your browser.",
+      "tags": [
+        "Compiled and run",
+        "Attacks and fixes",
+        "In-browser EVM"
+      ]
+    },
+    {
       "slug": "taos-rafting",
       "title": "Taos River Adventures",
       "url": "https://taos-rafting-corp.shadw.app",
