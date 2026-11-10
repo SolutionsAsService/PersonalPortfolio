@@ -6,7 +6,8 @@ A one-page index of live projects: each card opens the real site. Static site, d
 
 1. Screenshot the live site at 1440×900 and save two copies in `site/images/work/`: `<slug>-1200.jpg` (1200×750) and `<slug>-600.jpg` (600×375).
 2. Add an entry to `_src/projects.json` (the `url` is `https://<repo name in lower case>.shadw.app`, where the project is deployed; use a GitHub URL only for something that is not a deployed site): `slug`, `title`, `url`, `group` (`business`, `maps`, `tools` or `guides`), a one-line `line`, optional `tags`, and `"featured": true` to put it in the large top row.
-3. Rebuild:
+3. Order matters: the list runs best first. Graded A work goes first and is `featured` (the 2 × 2 top row: shadw-MCP, SHADW Terrain, Facet, LearnGroovy), then the rest by owner grade (B+, B), then ungraded revamped sites, then lower grades, and sites not yet revamped (still on `vercel.app` or `github.io`) at the back. Grades come from the dada ledger (`PrometheusIntelligence/dada`, `ledger/runs.jsonl`).
+4. Rebuild:
 
 ```bash
 python _src/build.py
