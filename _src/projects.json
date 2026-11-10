@@ -93,6 +93,19 @@
       ]
     },
     {
+      "slug": "religion-map",
+      "title": "The Religion Map",
+      "url": "https://religonmapapp.shadw.app",
+      "group": "maps",
+      "grade": "A-",
+      "line": "Where 91 religions began, and when: a light Equal Earth map whose year slider is a folded timeline, with dated spread routes, lineage drawn as distance, and 19 lost religions with what ended them.",
+      "tags": [
+        "Folded time axis",
+        "91 traditions",
+        "106 pages"
+      ]
+    },
+    {
       "slug": "enginedisplay",
       "title": "EngineDisplay",
       "url": "https://enginedisplay.shadw.app",
