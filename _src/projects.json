@@ -745,7 +745,7 @@
       "title": "Learn Kubernetes",
       "url": "https://learnkubernetes.shadw.app",
       "group": "guides",
-      "line": "Kubernetes drawn as a chart-room: a landing chart that links every lesson, hand-drawn diagrams of the control plane, objects and Services, and four labs where you kill a pod, flip a label and step through a rolling update.",
+      "line": "Kubernetes drawn plainly in Kubernetes blue: a landing chart that links every lesson, hand-drawn diagrams of the control plane, objects and Services, and four labs where you kill a pod, flip a label and step through a rolling update.",
       "tags": [
         "Hand-drawn SVG diagrams",
         "Four live labs"
