@@ -728,6 +728,17 @@
       "tags": [
         "Calculator"
       ]
+    },
+    {
+      "slug": "learncss",
+      "title": "Learn CSS",
+      "url": "https://learncss.shadw.app",
+      "group": "guides",
+      "line": "A hands-on CSS course where every lesson has a live playground that prints the exact CSS it just wrote: a box model you can drag, a selector tester, flexbox and grid labs, and animations that respect reduced motion.",
+      "tags": [
+        "Live playgrounds",
+        "No build, no dependencies"
+      ]
     }
   ]
 }
