@@ -193,6 +193,18 @@
       "wide": true
     },
     {
+      "slug": "blockchain-explain",
+      "title": "Blockchain, explained",
+      "url": "https://blockchain-explain.shadw.app",
+      "group": "guides",
+      "line": "A blockchain drawn as what it is: two stacks of layers on one bedrock of hashes, joined by an IBC bridge. Every hash on the site is computed, and you can break the chain yourself.",
+      "tags": [
+        "10 pages",
+        "SHA-256, live",
+        "Logo 2.0"
+      ]
+    },
+    {
       "slug": "physics-map",
       "title": "Physics Map",
       "url": "https://physics-map.shadw.app",
@@ -719,16 +731,6 @@
       "tags": [
         "Video",
         "Editor"
-      ]
-    },
-    {
-      "slug": "blockchain-explain",
-      "title": "Understanding Autheo",
-      "url": "https://blockchain-explain.vercel.app",
-      "group": "guides",
-      "line": "Blockchain infrastructure explained: Cosmos SDK, EVM, IBC.",
-      "tags": [
-        "Guide"
       ]
     },
     {
