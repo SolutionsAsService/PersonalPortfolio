@@ -193,6 +193,19 @@
       "wide": true
     },
     {
+      "slug": "website-toolkit",
+      "title": "website-toolkit",
+      "url": "https://website-toolkit.shadw.app",
+      "group": "tools",
+      "grade": "B-",
+      "line": "A kit of 18 copy-paste website parts drawn as a plastic model kit: every part a live miniature on a moulded sprue, re-themed in one click, stripped bare with X-ray, assembled in a sandbox that copies exactly what it shows, and fetched by agents from a hashed JSON registry.",
+      "tags": [
+        "18 parts, checked",
+        "Sandbox",
+        "registry.json for agents"
+      ]
+    },
+    {
       "slug": "blockchain-explain",
       "title": "Blockchain, explained",
       "url": "https://blockchain-explain.shadw.app",
