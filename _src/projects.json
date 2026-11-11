@@ -210,10 +210,10 @@
       "title": "Blockchain, explained",
       "url": "https://blockchain-explain.shadw.app",
       "group": "guides",
-      "line": "A blockchain drawn as what it is: two stacks of layers on one bedrock of hashes, joined by an IBC bridge. Every hash on the site is computed, and you can break the chain yourself.",
+      "line": "A plain guide to how blockchains work, drawn as one stack of layers on a bedrock of hashes: keys, proof of work and stake, contracts, layer 2, bridges and risks. Mine a block, sign a transaction, break the chain.",
       "tags": [
-        "10 pages",
-        "SHA-256, live",
+        "13 pages",
+        "Live SHA-256 and signatures",
         "Logo 2.0"
       ]
     },
