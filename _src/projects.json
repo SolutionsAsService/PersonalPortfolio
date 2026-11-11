@@ -19,6 +19,19 @@
   ],
   "projects": [
     {
+      "slug": "internet-structure",
+      "title": "Internet Structure",
+      "url": "https://internet-structure.shadw.app",
+      "group": "maps",
+      "grade": "A+",
+      "featured": true,
+      "line": "253 organisations hold the internet up; 43 of them hold half of it. A cable-black hero in fibre-optic colours.",
+      "tags": [
+        "283 pages",
+        "Static Next.js"
+      ]
+    },
+    {
       "slug": "wtf",
       "title": "WTF: Where The Founders gather",
       "url": "https://wtf-revamp.vercel.app",
@@ -55,19 +68,6 @@
       "tags": [
         "MCP server",
         "15 tools"
-      ]
-    },
-    {
-      "slug": "internet-structure",
-      "title": "Internet Structure",
-      "url": "https://internet-structure.shadw.app",
-      "group": "maps",
-      "grade": "A",
-      "featured": true,
-      "line": "253 organisations hold the internet up; 43 of them hold half of it. Seven strata in fibre-cable colours.",
-      "tags": [
-        "283 pages",
-        "Static Next.js"
       ]
     },
     {
