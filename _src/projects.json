@@ -58,6 +58,19 @@
       ]
     },
     {
+      "slug": "internet-structure",
+      "title": "Internet Structure",
+      "url": "https://internet-structure.shadw.app",
+      "group": "maps",
+      "grade": "A",
+      "featured": true,
+      "line": "253 organisations hold the internet up; 43 of them hold half of it. Seven strata in fibre-cable colours.",
+      "tags": [
+        "283 pages",
+        "Static Next.js"
+      ]
+    },
+    {
       "slug": "shadw-terrain",
       "title": "SHADW Terrain",
       "url": "https://shadw-terrain.shadw.app",
@@ -684,16 +697,6 @@
       "tags": [
         "5 pages",
         "Quote form"
-      ]
-    },
-    {
-      "slug": "internet-structure",
-      "title": "Internet Structure Atlas",
-      "url": "https://internet-structure.vercel.app",
-      "group": "maps",
-      "line": "The organisations that keep the internet running.",
-      "tags": [
-        "Network map"
       ]
     },
     {

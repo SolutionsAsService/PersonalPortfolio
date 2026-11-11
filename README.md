@@ -6,7 +6,7 @@ A one-page index of live projects: each card opens the real site. Static site, d
 
 1. Screenshot the live site at 1440×900 and save two copies in `site/images/work/`: `<slug>-1200.jpg` (1200×750) and `<slug>-600.jpg` (600×375).
 2. Add an entry to `_src/projects.json` (the `url` is `https://<repo name in lower case>.shadw.app`, where the project is deployed; use a GitHub URL only for something that is not a deployed site): `slug`, `title`, `url`, `group` (`business`, `maps`, `tools` or `guides`), a one-line `line`, optional `tags`, and `"featured": true` to put it in the large top row.
-3. Order matters: the list runs best first. Owner grades are recorded in each entry's `grade` field. Graded A work is `featured` (the top rows: WTF, UGC, shadw-MCP, plus SHADW Terrain and Facet, which dada's notes call its best-graded heroes without a letter, and LearnGroovy at B+). Then the rest by grade (A−, B+, B), then ungraded revamped sites, then lower grades (C+, C), and sites not yet revamped (still on `vercel.app` or `github.io`, ungraded) at the back. A grade outranks the hosting rule.
+3. Order matters: the list runs best first. Owner grades are recorded in each entry's `grade` field. Graded A work is `featured` (the top rows: WTF, UGC, shadw-MCP, Internet Structure, plus SHADW Terrain and Facet, which dada's notes call its best-graded heroes without a letter, and LearnGroovy at B+). Then the rest by grade (A−, B+, B), then ungraded revamped sites, then lower grades (C+, C), and sites not yet revamped (still on `vercel.app` or `github.io`, ungraded) at the back. A grade outranks the hosting rule.
 4. Rebuild:
 
 ```bash
