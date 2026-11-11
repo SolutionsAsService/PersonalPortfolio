@@ -119,6 +119,19 @@
       ]
     },
     {
+      "slug": "learnjava",
+      "title": "Learn Java",
+      "url": "https://learnjava.shadw.app",
+      "group": "guides",
+      "grade": "B+",
+      "line": "Java served as a café: a latte whose layers lead to the lessons, the JVM, the versions and the ecosystem, and a chalkboard menu of thirteen programs, each compiled and run, with the real Hello.class drawn byte by byte inside.",
+      "tags": [
+        "20 pages",
+        "13 programs compiled and run",
+        "Hello.class, byte by byte"
+      ]
+    },
+    {
       "slug": "lintel",
       "title": "Lintel",
       "url": "https://lintel-financing.vercel.app",
@@ -613,19 +626,6 @@
         "22 pages",
         "41 programs compiled and run",
         "Rosetta: 5 × 5"
-      ]
-    },
-    {
-      "slug": "learnjava",
-      "title": "Learn Java",
-      "url": "https://learnjava.shadw.app",
-      "group": "guides",
-      "grade": "B+",
-      "line": "Java served as a café: a latte whose layers lead to the lessons, the JVM, the versions and the ecosystem, and a chalkboard menu of thirteen programs, each compiled and run, with the real Hello.class drawn byte by byte inside.",
-      "tags": [
-        "20 pages",
-        "13 programs compiled and run",
-        "Hello.class, byte by byte"
       ]
     },
     {
