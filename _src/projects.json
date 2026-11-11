@@ -603,6 +603,18 @@
       ]
     },
     {
+      "slug": "learnc",
+      "title": "Learn C and its family",
+      "url": "https://learnc.shadw.app",
+      "group": "guides",
+      "line": "C, C++, Objective-C, C# and HolyC drawn as a C pointer diagram: twelve C lessons and the same five programs in every language, each compiled with strict warnings and shown with its real output.",
+      "tags": [
+        "22 pages",
+        "41 programs compiled and run",
+        "Rosetta: 5 × 5"
+      ]
+    },
+    {
       "slug": "taos-rafting",
       "title": "Taos River Adventures",
       "url": "https://taos-rafting-corp.shadw.app",
