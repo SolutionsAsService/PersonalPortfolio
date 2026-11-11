@@ -280,7 +280,7 @@
       "title": "Coding Roadmap",
       "url": "https://codingroadmap.shadw.app",
       "group": "maps",
-      "line": "Full-stack development drawn as a transit map: one trunk line, four branch lines, every tool linked to its docs.",
+      "line": "Development drawn as a transit map: one trunk line and six branches, from frontend to systems, with every tool linked to its official docs and the hands-on guides beside them.",
       "tags": [
         "8 pages",
         "Transit map"
