@@ -219,6 +219,18 @@
       ]
     },
     {
+      "slug": "awsencyclopedia",
+      "title": "AWS Encyclopedia",
+      "url": "https://awsencyclopedia.shadw.app",
+      "group": "guides",
+      "line": "All 436 AWS service APIs on one wall, counted from Amazon's own SDK, the 13 you meet first, and why a website needs only one file on Shadw.",
+      "tags": [
+        "436 APIs, counted",
+        "21 pages",
+        "Shadw"
+      ]
+    },
+    {
       "slug": "physics-map",
       "title": "Physics Map",
       "url": "https://physics-map.shadw.app",
