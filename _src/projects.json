@@ -34,7 +34,7 @@
     {
       "slug": "wtf",
       "title": "WTF: Where The Founders gather",
-      "url": "https://wtf-revamp.vercel.app",
+      "url": "https://wtf-revamp.shadw.app",
       "group": "business",
       "grade": "A",
       "featured": true,
@@ -47,7 +47,7 @@
     {
       "slug": "ugc",
       "title": "UGC Events & Media",
-      "url": "https://ugc-site.vercel.app",
+      "url": "https://ugc-site.shadw.app",
       "group": "business",
       "grade": "A",
       "featured": true,
@@ -132,6 +132,19 @@
       ]
     },
     {
+      "slug": "blockchain-explain",
+      "title": "Blockchain, explained",
+      "url": "https://blockchain-explain.shadw.app",
+      "group": "guides",
+      "line": "A plain guide to how blockchains work, drawn as one stack of layers on a bedrock of hashes: keys, proof of work and stake, contracts, layer 2, bridges and risks. Mine a block, sign a transaction, break the chain.",
+      "tags": [
+        "13 pages",
+        "Live SHA-256 and signatures",
+        "Logo 2.0"
+      ],
+      "grade": "A-"
+    },
+    {
       "slug": "enginedisplay",
       "title": "EngineDisplay",
       "url": "https://enginedisplay.shadw.app",
@@ -203,18 +216,6 @@
         "18 parts, checked",
         "Sandbox",
         "registry.json for agents"
-      ]
-    },
-    {
-      "slug": "blockchain-explain",
-      "title": "Blockchain, explained",
-      "url": "https://blockchain-explain.shadw.app",
-      "group": "guides",
-      "line": "A plain guide to how blockchains work, drawn as one stack of layers on a bedrock of hashes: keys, proof of work and stake, contracts, layer 2, bridges and risks. Mine a block, sign a transaction, break the chain.",
-      "tags": [
-        "13 pages",
-        "Live SHA-256 and signatures",
-        "Logo 2.0"
       ]
     },
     {
@@ -694,7 +695,7 @@
     {
       "slug": "copperline",
       "title": "Copperline Plumbing Co.",
-      "url": "https://tulsa-plumbing-site.vercel.app",
+      "url": "https://tulsa-plumbing-site.shadw.app",
       "group": "business",
       "line": "Phone-first site for a Tulsa plumber, in copper and Art Deco.",
       "tags": [
@@ -705,7 +706,7 @@
     {
       "slug": "stargazer",
       "title": "Stargazer Spas",
-      "url": "https://hot-tub-site.vercel.app",
+      "url": "https://hot-tub-site.shadw.app",
       "group": "business",
       "line": "Hot tub dealer for Southern California, told as one evening from dusk to stars.",
       "tags": [
@@ -727,7 +728,7 @@
     {
       "slug": "open-dungeon",
       "title": "Open Tabletop",
-      "url": "https://open-dungeon.vercel.app",
+      "url": "https://open-dungeon.shadw.app",
       "group": "tools",
       "line": "A shared table for any roleplaying game: maps, minis, rules.",
       "tags": [
@@ -738,7 +739,7 @@
     {
       "slug": "vfx-machine",
       "title": "VFX Machine",
-      "url": "https://vfx-machine.vercel.app",
+      "url": "https://vfx-machine.shadw.app",
       "group": "tools",
       "line": "A modular workbench for film effects in the browser.",
       "tags": [
@@ -749,7 +750,7 @@
     {
       "slug": "learncobol",
       "title": "Learn COBOL",
-      "url": "https://solutionsasservice.github.io/LearnCOBOL/",
+      "url": "https://learncobol.shadw.app",
       "group": "guides",
       "line": "Thirty-two COBOL programs, read on the 80-column card they were written to.",
       "tags": [
@@ -760,7 +761,7 @@
     {
       "slug": "highwater",
       "title": "Highwater Rafting Co.",
-      "url": "https://basic-rafting-site.vercel.app",
+      "url": "https://basicraftingsite.shadw.app",
       "group": "business",
       "line": "Six Arkansas River trips, each tied to the gauge that says if it's running.",
       "tags": [
@@ -771,7 +772,7 @@
     {
       "slug": "alpenglow",
       "title": "Alpenglow Retreat",
-      "url": "https://dunes-event.vercel.app",
+      "url": "https://dunes-event.shadw.app",
       "group": "business",
       "line": "A yearly retreat at Great Sand Dunes, with the moon each edition actually had.",
       "tags": [
@@ -782,7 +783,7 @@
     {
       "slug": "loadbearing",
       "title": "Loadbearing",
-      "url": "https://consulting-front-end.vercel.app",
+      "url": "https://consultingfrontend.shadw.app",
       "group": "business",
       "line": "A web consulting studio whose home page load-tests itself in your browser.",
       "tags": [
@@ -804,7 +805,7 @@
     {
       "slug": "realestate",
       "title": "California Real Estate Investment",
-      "url": "https://real-estate-demo-mu.vercel.app",
+      "url": "https://realestatedemo.shadw.app",
       "group": "business",
       "line": "Concept site for a private real estate firm: four offerings pinned on a California map, six steps to invest, plain-spoken fees.",
       "tags": [
@@ -815,7 +816,7 @@
     {
       "slug": "mesa-rescue",
       "title": "Mesa Animal Rescue",
-      "url": "https://animal-sanctuary-five.vercel.app",
+      "url": "https://animalsanctuary.shadw.app",
       "group": "business",
       "line": "Concept site for an animal rescue in Mesa, Arizona: six animals with drawn portraits, fostering, volunteering, giving.",
       "tags": [
@@ -826,7 +827,7 @@
     {
       "slug": "show-your-work",
       "title": "Show Your Work",
-      "url": "https://scientific-calc-site.vercel.app",
+      "url": "https://scientificcalcsite.shadw.app",
       "group": "tools",
       "line": "A scientific calculator in the browser that shows how it read your maths: trig, logs, roots, constants and a paper tape.",
       "tags": [
