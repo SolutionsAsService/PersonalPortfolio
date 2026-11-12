@@ -119,6 +119,18 @@
       ]
     },
     {
+      "slug": "developer-map",
+      "title": "Developer Map",
+      "url": "https://developer-map.shadw.app",
+      "group": "maps",
+      "line": "13,299 developer concepts from 80 knowledge graphs; 1,397 turn up in more than one. Terminal colours, one per region.",
+      "tags": [
+        "4,750 pages",
+        "Static Next.js"
+      ],
+      "grade": "A-"
+    },
+    {
       "slug": "learnjava",
       "title": "Learn Java",
       "url": "https://learnjava.shadw.app",
@@ -239,17 +251,6 @@
       "tags": [
         "Graph",
         "Learning routes"
-      ]
-    },
-    {
-      "slug": "developer-map",
-      "title": "Developer Map",
-      "url": "https://developer-map.shadw.app",
-      "group": "maps",
-      "line": "13,299 developer concepts from 80 knowledge graphs; 1,397 turn up in more than one. Terminal colours, one per region.",
-      "tags": [
-        "4,750 pages",
-        "Static Next.js"
       ]
     },
     {
