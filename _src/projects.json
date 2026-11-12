@@ -327,6 +327,17 @@
       ]
     },
     {
+      "slug": "toy-bot",
+      "title": "Sleighload",
+      "url": "https://toy-bot.shadw.app",
+      "group": "business",
+      "line": "A holiday toy resale whose landing is the stock itself: a treemap of gift boxes, one per shelf, and a bot that runs eBay and Marketplace listings together and cuts prices every Friday.",
+      "tags": [
+        "48 pages",
+        "eBay + Marketplace bot"
+      ]
+    },
+    {
       "slug": "coding-roadmap",
       "title": "Coding Roadmap",
       "url": "https://codingroadmap.shadw.app",
