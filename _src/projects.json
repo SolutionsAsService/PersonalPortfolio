@@ -157,6 +157,18 @@
       "grade": "A-"
     },
     {
+      "slug": "jrl-enterprises",
+      "title": "JRL Enterprises",
+      "url": "https://jrl-enterprise.shadw.app",
+      "group": "business",
+      "grade": "A-",
+      "line": "A Ramah, NM auto repair and machine shop, with an instrument-cluster hero: one gauge per service, in engine-fluid colours.",
+      "tags": [
+        "4 pages",
+        "Live hours"
+      ]
+    },
+    {
       "slug": "enginedisplay",
       "title": "EngineDisplay",
       "url": "https://enginedisplay.shadw.app",
