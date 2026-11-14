@@ -218,6 +218,19 @@
       "wide": true
     },
     {
+      "slug": "learndevops",
+      "title": "LearnDevOps",
+      "url": "https://learndevops.shadw.app",
+      "group": "guides",
+      "line": "Five DevOps tracks on one landing chart: CI/CD, GitOps, infrastructure as code, microservices and monitoring, each with a readme and sample code.",
+      "tags": [
+        "5 tracks",
+        "Landing chart",
+        "Sample code"
+      ],
+      "grade": "B"
+    },
+    {
       "slug": "website-toolkit",
       "title": "website-toolkit",
       "url": "https://website-toolkit.shadw.app",
@@ -845,17 +858,6 @@
       "line": "A scientific calculator in the browser that shows how it read your maths: trig, logs, roots, constants and a paper tape.",
       "tags": [
         "Calculator"
-      ]
-    },
-    {
-      "slug": "learndevops",
-      "title": "LearnDevOps",
-      "url": "https://github.com/SolutionsAsService/LearnDevOps",
-      "group": "guides",
-      "line": "A DevOps learning path in five tracks: CI/CD, GitOps, infrastructure as code, microservices and monitoring, each with a readme and sample code.",
-      "tags": [
-        "5 tracks",
-        "Landing graphic"
       ]
     }
   ]
