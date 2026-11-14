@@ -846,6 +846,17 @@
       "tags": [
         "Calculator"
       ]
+    },
+    {
+      "slug": "learndevops",
+      "title": "LearnDevOps",
+      "url": "https://github.com/SolutionsAsService/LearnDevOps",
+      "group": "guides",
+      "line": "A DevOps learning path in five tracks: CI/CD, GitOps, infrastructure as code, microservices and monitoring, each with a readme and sample code.",
+      "tags": [
+        "5 tracks",
+        "Landing graphic"
+      ]
     }
   ]
 }
