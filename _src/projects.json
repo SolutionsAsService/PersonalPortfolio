@@ -195,6 +195,18 @@
       ]
     },
     {
+      "slug": "pixelgen",
+      "title": "PIXELGEN",
+      "url": "https://pixel-art-gen.shadw.app",
+      "group": "tools",
+      "grade": "B+",
+      "line": "8-bit and 16-bit pixel art in the colour limits of real consoles: creatures, heroes, items and islands, with PNG sheets and a JSON atlas.",
+      "tags": [
+        "6 palettes",
+        "5 pages"
+      ]
+    },
+    {
       "slug": "lintel",
       "title": "Lintel",
       "url": "https://lintel-financing.vercel.app",
