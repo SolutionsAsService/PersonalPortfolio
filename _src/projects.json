@@ -182,6 +182,19 @@
       ]
     },
     {
+      "slug": "learnphp",
+      "title": "Learn PHP",
+      "url": "https://github.com/SolutionsAsService/LearnPHP",
+      "group": "guides",
+      "grade": "B+",
+      "line": "PHP taught as a program: a listing whose lines are the pages, code samples run with the php command beside their real output, and a working contact form.",
+      "tags": [
+        "6 pages",
+        "Laravel 13",
+        "Every sample run"
+      ]
+    },
+    {
       "slug": "lintel",
       "title": "Lintel",
       "url": "https://lintel-financing.vercel.app",
