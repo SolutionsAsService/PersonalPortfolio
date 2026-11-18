@@ -182,6 +182,18 @@
       ]
     },
     {
+      "slug": "learnapi",
+      "title": "LearnAPI: APIs drawn as conversations",
+      "url": "https://learnapi.shadw.app",
+      "group": "guides",
+      "grade": "A-",
+      "line": "Eight API styles, each run once on a real server and drawn as a two-lane Call Score: REST, GraphQL, gRPC, JSON-RPC, SOAP, WebSocket, SSE and webhooks.",
+      "tags": [
+        "12 pages",
+        "Measured, not drawn"
+      ]
+    },
+    {
       "slug": "enginedisplay",
       "title": "EngineDisplay",
       "url": "https://enginedisplay.shadw.app",
