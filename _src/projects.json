@@ -307,6 +307,61 @@
       ]
     },
     {
+      "slug": "khemet",
+      "title": "Khemet: Sands of the Ancient Gods",
+      "url": "https://minecraft-khemet.shadw.app",
+      "group": "tools",
+      "line": "A Minecraft mod in Egyptian gold: 6 gods, 23 blocks, 9 creatures and 8 structures, with shrines of Ra and Anubis. Real in-game photos.",
+      "tags": [
+        "Minecraft mod",
+        "Fabric 1.21.4"
+      ]
+    },
+    {
+      "slug": "asgard",
+      "title": "Asgard: the Norse Gods as Potions",
+      "url": "https://minecraft-asgard.shadw.app",
+      "group": "tools",
+      "line": "A Minecraft mod: six gods as potions, Mjölnir and two more relics, Yggdrasil and rune circles. It loads on a real server; brewing is not yet tested.",
+      "tags": [
+        "Minecraft mod",
+        "Fabric 1.21.4"
+      ]
+    },
+    {
+      "slug": "olympia",
+      "title": "Olympia: Age of the Gods",
+      "url": "https://minecraft-olympia.shadw.app",
+      "group": "tools",
+      "line": "A Minecraft mod: all 12 Olympians, 14 places and a 61 by 61 labyrinth with a Minotaur that hunts you. Loads on a Fabric 1.21.4 server.",
+      "tags": [
+        "Minecraft mod",
+        "Fabric 1.21.4"
+      ]
+    },
+    {
+      "slug": "human-history",
+      "title": "Human History: follow the evidence",
+      "url": "https://human-history.shadw.app",
+      "group": "maps",
+      "line": "An interactive map of sites, migrations and competing hypotheses. Evidence and interpretation are classified apart, so similarity never passes for contact.",
+      "tags": [
+        "Interactive map",
+        "Evidence-first"
+      ]
+    },
+    {
+      "slug": "js-frameworks",
+      "title": "JS Frameworks, cut up",
+      "url": "https://frameworks.shadw.app",
+      "group": "guides",
+      "line": "Twelve frameworks explained, each with the real gzipped JavaScript of one counter app (Solid 4.3 kB, Next.js 134.8 kB). Torn-paper tiles in primary colours.",
+      "tags": [
+        "12 frameworks",
+        "Measured sizes"
+      ]
+    },
+    {
       "slug": "awsencyclopedia",
       "title": "AWS Encyclopedia",
       "url": "https://awsencyclopedia.shadw.app",
