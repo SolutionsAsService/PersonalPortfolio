@@ -169,6 +169,19 @@
       ]
     },
     {
+      "slug": "globalarms",
+      "title": "GlobalArms",
+      "url": "https://globalarms.shadw.app",
+      "group": "maps",
+      "grade": "A-",
+      "line": "An atlas of 776 defense systems from 45 countries: select one and its operators light up on the map, and a Force Projection view draws missile ranges as rings on a world map.",
+      "tags": [
+        "776 records",
+        "45 countries",
+        "Operators on the map"
+      ]
+    },
+    {
       "slug": "enginedisplay",
       "title": "EngineDisplay",
       "url": "https://enginedisplay.shadw.app",
@@ -264,6 +277,19 @@
         "5 tracks",
         "Landing chart",
         "Sample code"
+      ],
+      "grade": "B"
+    },
+    {
+      "slug": "learndocker",
+      "title": "Learn Docker",
+      "url": "https://learndocker.shadw.app",
+      "group": "guides",
+      "line": "An unofficial guide to Docker, led by the build drawn as layers from real builds, with five diagrams and a chapter that sets Swarm beside Kubernetes using quotations from the official docs.",
+      "tags": [
+        "Build as layers",
+        "34 commands run and checked",
+        "Swarm and Kubernetes, sourced"
       ],
       "grade": "B"
     },
@@ -638,17 +664,6 @@
       "tags": [
         "Data-driven menu",
         "Terpene wheel"
-      ]
-    },
-    {
-      "slug": "learndocker",
-      "title": "Learn Docker",
-      "url": "https://learndocker.shadw.app",
-      "group": "guides",
-      "line": "An unofficial guide to Docker, led by the build drawn as layers from real builds: which steps the cache reused and which ran again, with all 34 commands run against a real daemon.",
-      "tags": [
-        "Build as layers",
-        "34 commands run and checked"
       ]
     },
     {
