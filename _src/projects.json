@@ -306,6 +306,18 @@
       "grade": "B"
     },
     {
+      "slug": "learnsql",
+      "title": "LearnSQL: SQL, row by row",
+      "url": "https://learnsql.shadw.app",
+      "group": "guides",
+      "grade": "B",
+      "line": "One real query drawn as seven bands that narrow from 2,585 rows to 5, then twelve pages where every example runs for real, in your browser.",
+      "tags": [
+        "12 pages",
+        "Runnable examples"
+      ]
+    },
+    {
       "slug": "website-toolkit",
       "title": "website-toolkit",
       "url": "https://website-toolkit.shadw.app",
